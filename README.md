@@ -31,7 +31,7 @@
 
 ### 🔗 Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">](www.linkedin.com/in/cauagomes/) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">](https://www.linkedin.com/in/cauagomes/)
 ***
 <p align="center">
     Thanks for stopping by! Let's connect and build something great.
