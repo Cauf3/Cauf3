@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Cauã Gomes da Silva</h1>
-<h3 align="center">Level Up Your Support & Code</h3>
+<h1 align="center">I'm Cauã Gomes da Silva</h1>
+<h3 align="center">Systems Analysis and Development Student</h3>
 
 ---
 
@@ -31,7 +31,7 @@
 
 ### 🔗 Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">](www.linkedin.com/in/cauagomes) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">](www.linkedin.com/in/cauagomes/) 
 ***
 <p align="center">
     Thanks for stopping by! Let's connect and build something great.
